@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 987196078086412408}
   m_Layer: 0
-  m_Name: TestHouseWithCellar
+  m_Name: HouseWithBasement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2453,7 +2453,7 @@ PrefabInstance:
     - target: {fileID: 4948061528587392000, guid: 43b90f454e9d84c49aca9d66521357a5,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43b90f454e9d84c49aca9d66521357a5, type: 3}
