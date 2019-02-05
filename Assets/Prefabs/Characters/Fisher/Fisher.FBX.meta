@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: 576ba9b3a5b1e054387e16692dd221c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 35b88190.obj
+    100002: 35b88c98.obj
+    100004: 35b897a0.obj
+    100006: 35b8adb0.obj
+    100008: 35b8b8b8.obj
+    100010: 35b8c3c0.obj
+    100012: 35b8d9d0.obj
+    100014: 35b8e4d8.obj
+    100016: 35b8efe0.obj
+    100018: 35b910f8.obj
+    100020: 35b91c00.obj
+    100022: 35b93d18.obj
+    100024: 35b94820.obj
+    100026: 35b95328.obj
+    100028: 35b95e30.obj
+    100030: 35b96938.obj
+    100032: 35ba88a0.obj
+    100034: 35ba93a8.obj
+    100036: 35ba9eb0.obj
+    100038: 35baa9b8.obj
+    100040: 35bab4c0.obj
+    100042: 35babfc8.obj
+    100044: 35bacad0.obj
+    100046: 35bae0e0.obj
+    100048: 35baebe8.obj
+    100050: 35baf6f0.obj
+    100052: 35bb01f8.obj
+    100054: 35bb0d00.obj
+    100056: 35bb1808.obj
+    100058: 35bb2310.obj
+    100060: 35bb2e18.obj
+    100062: 35bb3920.obj
+    100064: 35bb4428.obj
+    100066: 35bb4f30.obj
+    100068: 35bb5a38.obj
+    100070: 35bb6540.obj
+    100072: 35bb7048.obj
+    100074: 35bb7b50.obj
+    100076: 35d52f78.obj
+    100078: 35d53a80.obj
+    100080: 35d54588.obj
+    100082: 35d55090.obj
+    100084: 35d566a0.obj
+    100086: 35d57cb0.obj
+    100088: 35d587b8.obj
+    100090: 35d592c0.obj
+    100092: 35d59dc8.obj
+    100094: 35d5a8d0.obj
+    100096: 35d5b3d8.obj
+    100098: 35d5bee0.obj
+    100100: 35d5c9e8.obj
+    100102: 35d5d4f0.obj
+    100104: 35d5dff8.obj
+    100106: 35d5f608.obj
+    100108: 35d60110.obj
+    100110: 35d60c18.obj
+    100112: 35d61720.obj
+    100114: 35d62228.obj
+    100116: 3830c88.obj
+    100118: 3831790.obj
+    100120: 3832298.obj
+    100122: 3832da0.obj
+    100124: 38bf0b28.obj
+    100126: 38bf1630.obj
+    100128: 38bf2138.obj
+    100130: 38bf2c40.obj
+    100132: 38bf4250.obj
+    100134: 38bf4d58.obj
+    100136: 391cd528.obj
+    100138: 391ce030.obj
+    100140: 391cf640.obj
+    100142: 391d0148.obj
+    100144: 391d1758.obj
+    100146: 391d2260.obj
+    100148: 391d2d68.obj
+    100150: 391d3870.obj
+    100152: 391d4378.obj
+    100154: 391d4e80.obj
+    100156: 391d5988.obj
+    100158: 391d6490.obj
+    100160: 391d6f98.obj
+    100162: 391d7aa0.obj
+    100164: 391d85a8.obj
+    100166: 391d90b0.obj
+    100168: 391d9bb8.obj
+    100170: 391da6c0.obj
+    100172: 391db1c8.obj
+    100174: 391dbcd0.obj
+    100176: 391dc7d8.obj
+    100178: //RootNode
+    400000: 35b88190.obj
+    400002: 35b88c98.obj
+    400004: 35b897a0.obj
+    400006: 35b8adb0.obj
+    400008: 35b8b8b8.obj
+    400010: 35b8c3c0.obj
+    400012: 35b8d9d0.obj
+    400014: 35b8e4d8.obj
+    400016: 35b8efe0.obj
+    400018: 35b910f8.obj
+    400020: 35b91c00.obj
+    400022: 35b93d18.obj
+    400024: 35b94820.obj
+    400026: 35b95328.obj
+    400028: 35b95e30.obj
+    400030: 35b96938.obj
+    400032: 35ba88a0.obj
+    400034: 35ba93a8.obj
+    400036: 35ba9eb0.obj
+    400038: 35baa9b8.obj
+    400040: 35bab4c0.obj
+    400042: 35babfc8.obj
+    400044: 35bacad0.obj
+    400046: 35bae0e0.obj
+    400048: 35baebe8.obj
+    400050: 35baf6f0.obj
+    400052: 35bb01f8.obj
+    400054: 35bb0d00.obj
+    400056: 35bb1808.obj
+    400058: 35bb2310.obj
+    400060: 35bb2e18.obj
+    400062: 35bb3920.obj
+    400064: 35bb4428.obj
+    400066: 35bb4f30.obj
+    400068: 35bb5a38.obj
+    400070: 35bb6540.obj
+    400072: 35bb7048.obj
+    400074: 35bb7b50.obj
+    400076: 35d52f78.obj
+    400078: 35d53a80.obj
+    400080: 35d54588.obj
+    400082: 35d55090.obj
+    400084: 35d566a0.obj
+    400086: 35d57cb0.obj
+    400088: 35d587b8.obj
+    400090: 35d592c0.obj
+    400092: 35d59dc8.obj
+    400094: 35d5a8d0.obj
+    400096: 35d5b3d8.obj
+    400098: 35d5bee0.obj
+    400100: 35d5c9e8.obj
+    400102: 35d5d4f0.obj
+    400104: 35d5dff8.obj
+    400106: 35d5f608.obj
+    400108: 35d60110.obj
+    400110: 35d60c18.obj
+    400112: 35d61720.obj
+    400114: 35d62228.obj
+    400116: 3830c88.obj
+    400118: 3831790.obj
+    400120: 3832298.obj
+    400122: 3832da0.obj
+    400124: 38bf0b28.obj
+    400126: 38bf1630.obj
+    400128: 38bf2138.obj
+    400130: 38bf2c40.obj
+    400132: 38bf4250.obj
+    400134: 38bf4d58.obj
+    400136: 391cd528.obj
+    400138: 391ce030.obj
+    400140: 391cf640.obj
+    400142: 391d0148.obj
+    400144: 391d1758.obj
+    400146: 391d2260.obj
+    400148: 391d2d68.obj
+    400150: 391d3870.obj
+    400152: 391d4378.obj
+    400154: 391d4e80.obj
+    400156: 391d5988.obj
+    400158: 391d6490.obj
+    400160: 391d6f98.obj
+    400162: 391d7aa0.obj
+    400164: 391d85a8.obj
+    400166: 391d90b0.obj
+    400168: 391d9bb8.obj
+    400170: 391da6c0.obj
+    400172: 391db1c8.obj
+    400174: 391dbcd0.obj
+    400176: 391dc7d8.obj
+    400178: //RootNode
+    2100000: 'Material #45'
+    2100002: 'Material #46'
+    2100004: 'Material #47'
+    2300000: 35b88190.obj
+    2300002: 35b88c98.obj
+    2300004: 35b897a0.obj
+    2300006: 35b8adb0.obj
+    2300008: 35b8b8b8.obj
+    2300010: 35b8c3c0.obj
+    2300012: 35b8d9d0.obj
+    2300014: 35b8e4d8.obj
+    2300016: 35b8efe0.obj
+    2300018: 35b910f8.obj
+    2300020: 35b91c00.obj
+    2300022: 35b93d18.obj
+    2300024: 35b94820.obj
+    2300026: 35b95328.obj
+    2300028: 35b95e30.obj
+    2300030: 35b96938.obj
+    2300032: 35ba88a0.obj
+    2300034: 35ba93a8.obj
+    2300036: 35ba9eb0.obj
+    2300038: 35baa9b8.obj
+    2300040: 35bab4c0.obj
+    2300042: 35babfc8.obj
+    2300044: 35bacad0.obj
+    2300046: 35bae0e0.obj
+    2300048: 35baebe8.obj
+    2300050: 35baf6f0.obj
+    2300052: 35bb01f8.obj
+    2300054: 35bb0d00.obj
+    2300056: 35bb1808.obj
+    2300058: 35bb2310.obj
+    2300060: 35bb2e18.obj
+    2300062: 35bb3920.obj
+    2300064: 35bb4428.obj
+    2300066: 35bb4f30.obj
+    2300068: 35bb5a38.obj
+    2300070: 35bb6540.obj
+    2300072: 35bb7048.obj
+    2300074: 35bb7b50.obj
+    2300076: 35d52f78.obj
+    2300078: 35d53a80.obj
+    2300080: 35d54588.obj
+    2300082: 35d55090.obj
+    2300084: 35d566a0.obj
+    2300086: 35d57cb0.obj
+    2300088: 35d587b8.obj
+    2300090: 35d592c0.obj
+    2300092: 35d59dc8.obj
+    2300094: 35d5a8d0.obj
+    2300096: 35d5b3d8.obj
+    2300098: 35d5bee0.obj
+    2300100: 35d5c9e8.obj
+    2300102: 35d5d4f0.obj
+    2300104: 35d5dff8.obj
+    2300106: 35d5f608.obj
+    2300108: 35d60110.obj
+    2300110: 35d60c18.obj
+    2300112: 35d61720.obj
+    2300114: 35d62228.obj
+    2300116: 3830c88.obj
+    2300118: 3831790.obj
+    2300120: 3832298.obj
+    2300122: 3832da0.obj
+    2300124: 38bf0b28.obj
+    2300126: 38bf1630.obj
+    2300128: 38bf2138.obj
+    2300130: 38bf2c40.obj
+    2300132: 38bf4250.obj
+    2300134: 38bf4d58.obj
+    2300136: 391cd528.obj
+    2300138: 391ce030.obj
+    2300140: 391cf640.obj
+    2300142: 391d0148.obj
+    2300144: 391d1758.obj
+    2300146: 391d2260.obj
+    2300148: 391d2d68.obj
+    2300150: 391d3870.obj
+    2300152: 391d4378.obj
+    2300154: 391d4e80.obj
+    2300156: 391d5988.obj
+    2300158: 391d6490.obj
+    2300160: 391d6f98.obj
+    2300162: 391d7aa0.obj
+    2300164: 391d85a8.obj
+    2300166: 391d90b0.obj
+    2300168: 391d9bb8.obj
+    2300170: 391da6c0.obj
+    2300172: 391db1c8.obj
+    2300174: 391dbcd0.obj
+    2300176: 391dc7d8.obj
+    3300000: 35b88190.obj
+    3300002: 35b88c98.obj
+    3300004: 35b897a0.obj
+    3300006: 35b8adb0.obj
+    3300008: 35b8b8b8.obj
+    3300010: 35b8c3c0.obj
+    3300012: 35b8d9d0.obj
+    3300014: 35b8e4d8.obj
+    3300016: 35b8efe0.obj
+    3300018: 35b910f8.obj
+    3300020: 35b91c00.obj
+    3300022: 35b93d18.obj
+    3300024: 35b94820.obj
+    3300026: 35b95328.obj
+    3300028: 35b95e30.obj
+    3300030: 35b96938.obj
+    3300032: 35ba88a0.obj
+    3300034: 35ba93a8.obj
+    3300036: 35ba9eb0.obj
+    3300038: 35baa9b8.obj
+    3300040: 35bab4c0.obj
+    3300042: 35babfc8.obj
+    3300044: 35bacad0.obj
+    3300046: 35bae0e0.obj
+    3300048: 35baebe8.obj
+    3300050: 35baf6f0.obj
+    3300052: 35bb01f8.obj
+    3300054: 35bb0d00.obj
+    3300056: 35bb1808.obj
+    3300058: 35bb2310.obj
+    3300060: 35bb2e18.obj
+    3300062: 35bb3920.obj
+    3300064: 35bb4428.obj
+    3300066: 35bb4f30.obj
+    3300068: 35bb5a38.obj
+    3300070: 35bb6540.obj
+    3300072: 35bb7048.obj
+    3300074: 35bb7b50.obj
+    3300076: 35d52f78.obj
+    3300078: 35d53a80.obj
+    3300080: 35d54588.obj
+    3300082: 35d55090.obj
+    3300084: 35d566a0.obj
+    3300086: 35d57cb0.obj
+    3300088: 35d587b8.obj
+    3300090: 35d592c0.obj
+    3300092: 35d59dc8.obj
+    3300094: 35d5a8d0.obj
+    3300096: 35d5b3d8.obj
+    3300098: 35d5bee0.obj
+    3300100: 35d5c9e8.obj
+    3300102: 35d5d4f0.obj
+    3300104: 35d5dff8.obj
+    3300106: 35d5f608.obj
+    3300108: 35d60110.obj
+    3300110: 35d60c18.obj
+    3300112: 35d61720.obj
+    3300114: 35d62228.obj
+    3300116: 3830c88.obj
+    3300118: 3831790.obj
+    3300120: 3832298.obj
+    3300122: 3832da0.obj
+    3300124: 38bf0b28.obj
+    3300126: 38bf1630.obj
+    3300128: 38bf2138.obj
+    3300130: 38bf2c40.obj
+    3300132: 38bf4250.obj
+    3300134: 38bf4d58.obj
+    3300136: 391cd528.obj
+    3300138: 391ce030.obj
+    3300140: 391cf640.obj
+    3300142: 391d0148.obj
+    3300144: 391d1758.obj
+    3300146: 391d2260.obj
+    3300148: 391d2d68.obj
+    3300150: 391d3870.obj
+    3300152: 391d4378.obj
+    3300154: 391d4e80.obj
+    3300156: 391d5988.obj
+    3300158: 391d6490.obj
+    3300160: 391d6f98.obj
+    3300162: 391d7aa0.obj
+    3300164: 391d85a8.obj
+    3300166: 391d90b0.obj
+    3300168: 391d9bb8.obj
+    3300170: 391da6c0.obj
+    3300172: 391db1c8.obj
+    3300174: 391dbcd0.obj
+    3300176: 391dc7d8.obj
+    4300000: 38bf4d58.obj
+    4300002: 38bf4250.obj
+    4300004: 38bf2c40.obj
+    4300006: 38bf2138.obj
+    4300008: 38bf1630.obj
+    4300010: 38bf0b28.obj
+    4300012: 35b96938.obj
+    4300014: 35b95e30.obj
+    4300016: 35b95328.obj
+    4300018: 35b94820.obj
+    4300020: 35b93d18.obj
+    4300022: 35b91c00.obj
+    4300024: 35b910f8.obj
+    4300026: 35b8efe0.obj
+    4300028: 35b8e4d8.obj
+    4300030: 35b8d9d0.obj
+    4300032: 35b8c3c0.obj
+    4300034: 35b8b8b8.obj
+    4300036: 35b8adb0.obj
+    4300038: 35b897a0.obj
+    4300040: 35b88c98.obj
+    4300042: 35b88190.obj
+    4300044: 35bb7b50.obj
+    4300046: 35bb7048.obj
+    4300048: 35bb6540.obj
+    4300050: 35bb5a38.obj
+    4300052: 35bb4f30.obj
+    4300054: 35bb4428.obj
+    4300056: 35bb3920.obj
+    4300058: 35bb2e18.obj
+    4300060: 35bb2310.obj
+    4300062: 35bb1808.obj
+    4300064: 35bb0d00.obj
+    4300066: 35bb01f8.obj
+    4300068: 35baf6f0.obj
+    4300070: 35baebe8.obj
+    4300072: 35bae0e0.obj
+    4300074: 35bacad0.obj
+    4300076: 35babfc8.obj
+    4300078: 35bab4c0.obj
+    4300080: 35baa9b8.obj
+    4300082: 35ba9eb0.obj
+    4300084: 35ba93a8.obj
+    4300086: 35ba88a0.obj
+    4300088: 35d62228.obj
+    4300090: 35d61720.obj
+    4300092: 35d60c18.obj
+    4300094: 35d60110.obj
+    4300096: 35d5f608.obj
+    4300098: 35d5dff8.obj
+    4300100: 35d5d4f0.obj
+    4300102: 35d5c9e8.obj
+    4300104: 35d5bee0.obj
+    4300106: 35d5b3d8.obj
+    4300108: 3831790.obj
+    4300110: 3832298.obj
+    4300112: 35d592c0.obj
+    4300114: 35d587b8.obj
+    4300116: 35d57cb0.obj
+    4300118: 35d566a0.obj
+    4300120: 35d55090.obj
+    4300122: 35d54588.obj
+    4300124: 35d53a80.obj
+    4300126: 35d52f78.obj
+    4300128: 391dc7d8.obj
+    4300130: 3832da0.obj
+    4300132: 391db1c8.obj
+    4300134: 391da6c0.obj
+    4300136: 391d9bb8.obj
+    4300138: 391d90b0.obj
+    4300140: 391d85a8.obj
+    4300142: 391d7aa0.obj
+    4300144: 391d6f98.obj
+    4300146: 391d6490.obj
+    4300148: 391d5988.obj
+    4300150: 391d4e80.obj
+    4300152: 391d4378.obj
+    4300154: 391d3870.obj
+    4300156: 391d2d68.obj
+    4300158: 391d2260.obj
+    4300160: 391d1758.obj
+    4300162: 391d0148.obj
+    4300164: 391cf640.obj
+    4300166: 391ce030.obj
+    4300168: 391cd528.obj
+    4300170: 3830c88.obj
+    4300172: 35d5a8d0.obj
+    4300174: 35d59dc8.obj
+    4300176: 391dbcd0.obj
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 9760ac85fe28fa0448e07c1d1c03b7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: 8073595e4cee71c4f812294e1c32989e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: c3a479579b73a9c4190cdeee71b0e656, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2daaa500
+    second: {fileID: 2800000, guid: 38dbfafafdcbd3f46a080200cd737917, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2daaad20
+    second: {fileID: 2800000, guid: 7cd8ba575112a9c4893c3f9a9a48d84c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2daae000
+    second: {fileID: 2800000, guid: deffa311d2f77ad4b9e5e9f28b61efd8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 120
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.76199996
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Fisher(Clone)
+      parentName: 
+      position: {x: 0.7817843, y: 5.6287136, z: -2.2356749}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf4d58.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.18737599, y: 0.83310574, z: 3.7720108}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf4250.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.1555709, y: 0.832629, z: 3.842402}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf2c40.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.0075118956, y: 0.8360358, z: 3.7292054}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf2138.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.3251612, y: 0.79059666, z: 3.8838296}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf1630.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.33821017, y: 0.7950383, z: 3.824903}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38bf0b28.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.044647437, y: 0.8315709, z: 3.6393561}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b96938.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.336778, y: 0.9052176, z: 3.009476}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b95e30.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.19748658, y: 0.92675114, z: 2.8378296}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b95328.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.4527675, y: 0.8463956, z: 3.1582868}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b94820.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.31854314, y: 0.9109149, z: 2.7435853}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b93d18.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.45821592, y: 0.84508175, z: 2.9081335}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b91c00.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.5672132, y: 1.0553364, z: 1.5112013}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b910f8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.1611022, y: 1.0696028, z: 1.7174504}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8efe0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.72399384, y: 0.43044427, z: 3.6757958}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8e4d8.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.18547785, y: 0.876917, z: 1.7393385}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8d9d0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.43228474, y: 0.7297981, z: 2.1234255}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8c3c0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.84877074, y: 0.48612693, z: 3.1617284}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8b8b8.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8122348, y: 0.34749585, z: 3.888248}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b8adb0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.81511635, y: 0.36120433, z: 3.8292224}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b897a0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8393585, y: 0.4974518, z: 2.9114065}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b88c98.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.12710133, y: 0.839896, z: 1.3586001}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35b88190.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.6991928, y: 0.8261992, z: 1.8396696}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb7b50.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.3788621, y: 0.7319491, z: 1.7308507}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb7048.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.9096119, y: 0.38355178, z: 3.0145397}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb6540.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8572212, y: 0.22367783, z: 3.7780454}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb5a38.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.003391508, y: -0.2797798, z: 4.581746}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb4f30.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.85928714, y: 0.19233091, z: 3.8487678}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb4428.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.092614345, y: 0.77559763, z: 0.96357197}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb3920.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.2984259, y: 0.7022532, z: 1.3361015}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb2e18.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.90769446, y: 0.37348264, z: 2.7487304}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb2310.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.69466126, y: 0.49556822, z: 2.1255126}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb1808.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.9298292, y: 0.25932682, z: 2.844428}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb0d00.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.226915, y: 0.66470903, z: 0.9293597}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bb01f8.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.85404277, y: 0.09508104, z: 3.6466}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35baf6f0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8622065, y: 0.058385607, z: 3.7368968}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35baebe8.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.21498515, y: -0.4441302, z: 3.7706213}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bae0e0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.6933335, y: 0.46338412, z: 1.733961}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bacad0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.6747319, y: 0.42131692, z: 1.3355318}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35babfc8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.3302022, y: 0.29871976, z: 2.3282793}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35bab4c0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8530763, y: 0.28618565, z: 1.7442801}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35baa9b8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.359234, y: 0.2777908, z: 2.3330057}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35ba9eb0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.6659585, y: 0.40527138, z: 0.92206943}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35ba93a8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.7278843, y: 0.4345603, z: 1.7082183}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35ba88a0.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.7591237, y: 0.41671255, z: 1.7145842}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d62228.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.8253912, y: 0.26288474, z: 1.3591931}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d61720.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.065243, y: 0.26481485, z: 1.8351}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d60c18.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.9982638, y: 0.45761704, z: 0.9529563}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d60110.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.7854783, y: 0.27846518, z: 0.956927}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5f608.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.0295155, y: 0.43969953, z: 0.9593106}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5dff8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.5999092, y: 0.72320545, z: -0.81933004}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5d4f0.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.3267343, y: 0.4275491, z: -0.20040274}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5c9e8.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.3579874, y: 0.40970135, z: -0.19404846}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5bee0.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.5279452, y: -0.13927674, z: 2.760898}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5b3d8.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.1061248, y: -0.3813201, z: 1.6188226}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3831790.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.40944445, y: -1.9951633, z: -1.4147471}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3832298.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.725152, y: -2.0454395, z: -0.99464494}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d592c0.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.149669, y: -0.4607106, z: 1.6149158}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d587b8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.7716839, y: 0.5684242, z: -3.823693}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d57cb0.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.7046764, y: 0.68792856, z: -2.4646423}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d566a0.obj
+      parentName: Fisher(Clone)
+      position: {x: -2.4462528, y: 0.10324333, z: 0.8621428}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d55090.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.2393335, y: -0.9129039, z: 1.9850328}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d54588.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.601272, y: -0.3109174, z: -0.7168712}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d53a80.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.31556585, y: -1.1480988, z: 2.2754104}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d52f78.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.6310463, y: -0.33084643, z: -0.712168}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391dc7d8.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.29323545, y: -1.1749111, z: 2.2722826}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3832da0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.74573195, y: -2.017627, z: -0.9902033}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391db1c8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.8528832, y: -1.1287512, z: 1.4056845}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391da6c0.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.0085598, y: -1.4143616, z: 2.004235}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d9bb8.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.71489453, y: -0.8847661, z: 2.0611734}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d90b0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.6983169, y: -1.446569, z: 1.6734647}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d85a8.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.2768261, y: -1.2436744, z: -0.05029562}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d7aa0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.6802548, y: -1.4757067, z: 1.6667324}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d6f98.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.0942229, y: -1.5996643, z: 1.0059298}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d6490.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.40931556, y: -1.7652937, z: 1.7174969}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d5988.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.4753366, y: -0.9358676, z: -1.0596002}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d4e80.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.0761502, y: -1.6287206, z: 0.9992093}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d4378.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.5036283, y: -0.9578546, z: -1.0565075}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d3870.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.274286, y: -1.6099544, z: 1.3202827}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d2d68.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.43754378, y: -1.8592763, z: 1.4123003}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d2260.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.0851676, y: -1.3052171, z: -1.3867198}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d1758.obj
+      parentName: Fisher(Clone)
+      position: {x: 2.1119778, y: -1.3292854, z: -1.3852315}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391d0148.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.638251, y: -1.7529689, z: -0.063585505}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391cf640.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.6201764, y: -1.7820369, z: -0.07031184}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391ce030.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.3746072, y: -1.7442019, z: -1.5084507}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391cd528.obj
+      parentName: Fisher(Clone)
+      position: {x: 1.4001195, y: -1.7694795, z: -1.5082996}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3830c88.obj
+      parentName: Fisher(Clone)
+      position: {x: 0.4325019, y: -2.02172, z: -1.4168981}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d5a8d0.obj
+      parentName: Fisher(Clone)
+      position: {x: -2.2373285, y: 0.067059495, z: -4.776181}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35d59dc8.obj
+      parentName: Fisher(Clone)
+      position: {x: -1.2437435, y: -0.9552734, z: 1.2629431}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 391dbcd0.obj
+      parentName: Fisher(Clone)
+      position: {x: -0.09518687, y: -0.7813073, z: -5.3704357}
+      rotation: {x: -0.2707757, y: 0, z: -0, w: 0.9626425}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
