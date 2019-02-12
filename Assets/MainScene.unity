@@ -4718,6 +4718,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0c30fdacba9fbd8499e2ce51863472db, type: 2}
+    - target: {fileID: 9500000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
 --- !u!1001 &184019006
@@ -18773,7 +18777,7 @@ Transform:
   m_GameObject: {fileID: 802239182}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 573.97003, y: 100, z: 498.35}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 3
@@ -23130,7 +23134,7 @@ Transform:
   m_GameObject: {fileID: 1055235948}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 554.15, y: 100, z: 406.65}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 1
@@ -28707,7 +28711,7 @@ Transform:
   m_GameObject: {fileID: 1293949423}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 533.04004, y: 100, z: 469.98}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 5
@@ -28879,7 +28883,7 @@ Transform:
   m_GameObject: {fileID: 1307031125}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 514.77, y: 100, z: 415.78}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 0
@@ -30674,8 +30678,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1393426639}
-  m_LocalRotation: {x: 0, y: 0.30406156, z: 0, w: 0.9526524}
-  m_LocalPosition: {x: 194.5, y: 90.03, z: 210.7}
+  m_LocalRotation: {x: 0.35709107, y: 0.18455592, z: 0.072197564, w: -0.9128048}
+  m_LocalPosition: {x: 555.2752, y: 74.99838, z: 483.89124}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -31395,7 +31399,7 @@ Transform:
   m_GameObject: {fileID: 1432820109}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 571.87, y: 100, z: 786.78}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 4
@@ -32034,6 +32038,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0c30fdacba9fbd8499e2ce51863472db, type: 2}
+    - target: {fileID: 9500000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400020, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
       propertyPath: m_LocalRotation.y
       value: -0.43994075
@@ -33534,6 +33542,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0c30fdacba9fbd8499e2ce51863472db, type: 2}
+    - target: {fileID: 9500000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
 --- !u!1001 &1525272006
@@ -35548,8 +35560,8 @@ Transform:
   - {fileID: 651717984}
   - {fileID: 1288523118}
   - {fileID: 1486255545}
-  - {fileID: 166240215}
   - {fileID: 2132727879}
+  - {fileID: 166240215}
   m_Father: {fileID: 1561413494}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0.012, y: -43.56, z: 0.081}
@@ -36160,6 +36172,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0c30fdacba9fbd8499e2ce51863472db, type: 2}
+    - target: {fileID: 9500000, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400020, guid: a79e132ed0195964b8bd0130fe90b809, type: 3}
       propertyPath: m_LocalRotation.y
       value: -0.43994078
@@ -39563,8 +39579,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1745842054}
-  m_LocalRotation: {x: 0, y: 0.30406156, z: 0, w: 0.9526524}
-  m_LocalPosition: {x: 189.27, y: 90.03, z: 204.56}
+  m_LocalRotation: {x: 0.18118562, y: 0.70608723, z: 0.19495825, w: -0.6562042}
+  m_LocalPosition: {x: 563.17755, y: 86.835266, z: 506.92316}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -45514,7 +45530,7 @@ Transform:
   m_GameObject: {fileID: 2056489202}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 665.77, y: 100, z: 451.68}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 8.6127, y: 8.6127, z: 8.6127}
   m_Children: []
   m_Father: {fileID: 47409306}
   m_RootOrder: 2
@@ -48070,7 +48086,8 @@ GameObject:
   - component: {fileID: 2160338964282400145}
   - component: {fileID: 2160338964282400158}
   - component: {fileID: 2160338964282400160}
-  m_Layer: 0
+  - component: {fileID: 2160338964282400161}
+  m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48096,6 +48113,28 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2160338964282400161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2160338964282400159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 1
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
 --- !u!224 &2160338964339378376
 RectTransform:
   m_ObjectHideFlags: 0
